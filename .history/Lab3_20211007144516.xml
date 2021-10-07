@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE projects SYSTEM "Lab3.dtd">
+
+<projects>
+
+    <company>
+
+        <company_name>Nick's Services</company_name>
+        <company_address>123 Nick Rd</company_address>
+        <logo>image.jpg</logo>
+        <website_address>www.NicksServices.com</website_address>
+        <email>nicksservices@email.com</email>
+        <phone>(905) 123-4567</phone>
+
+    </company>
+
+    <project>
+
+        <project_id>P01</project_id>
+        <title>Project 1</title>
+        <managers>
+            <name>
+
+                <first_name>Nick</first_name>
+                <middle_name></middle_name>
+                <last_name>Sturch-Flint</last_name>
+
+            </name>
+            <phone type="home">(416) 123-4567</phone>
+            <phone type="office">(905) 321-4321</phone>
+            <email>nick@services.com</email>
+
+        </managers>
+        <teams>
+
+            <leader>Nick</leader>
+            <developer>Mark</developer>
+            <developer>William</developer>
+            <tester>Shailene</tester>
+            <documentor>Barillia</documentor>
+
+        </teams>
+        <clients>
+
+            <client_id>01</client_id>
+            <client_name>Jelissa Kool-aid</client_name>
+            <address>
+
+                <street>Fake St</street>
+                <city>Oshawa</city>
+                <country>Canada</country>
+                <postal>L2F 3D3</postal>
+
+            </address>
+            <email>jelissas.koolaid@email.com</email>
+            <phone>(123) 456-7890</phone>
+            
+
+        </clients>
+        <project_date type="start"></project_date>
+
+    </project>
+
+</projects>

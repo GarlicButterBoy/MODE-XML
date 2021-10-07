@@ -2,7 +2,6 @@
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT position (#PCDATA)>
 <!ELEMENT phone (#PCDATA)>
-<!ELEMENT email (#PCDATA)>
-
+<!ELEMENT email (#PCDATA)><!
 
 <!ATTLIST phone type (mobile|work|home) #REQUIRED>

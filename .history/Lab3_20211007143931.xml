@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE projects SYSTEM "Lab3.dtd">
+
+<projects>
+
+    <company>
+
+        <company_name>Nick's Services</company_name>
+        <company_address>123 Nick Rd</company_address>
+        <logo>image.jpg</logo>
+        <website_address>www.NicksServices.com</website_address>
+        <email>nicksservices@email.com</email>
+        <phone>(905) 123-4567</phone>
+
+    </company>
+
+    <project>
+
+        <project_id>P01</project_id>
+        <title>Project 1</title>
+        <managers>
+            <name>
+
+                <first_name>Nick</first_name>
+            <middle_name>Oliver</middle_name>
+                <last_name>Sturch-Flint</last_name>
+
+            </name>
+            
+
+        </managers>
+
+    </project>
+
+</projects>

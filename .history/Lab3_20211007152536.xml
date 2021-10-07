@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE projects SYSTEM "Lab3.dtd">
+
+<projects>
+
+    <company>
+
+        <company_name>Nick's Services</company_name>
+        <company_address>123 Nick Rd</company_address>
+        <logo>image.jpg</logo>
+        <website_address>www.NicksServices.com</website_address>
+        <company_email>nicksservices@email.com</company_email>
+        <company_phone>(905) 123-4567</company_phone>
+
+    </company>
+
+    <project project_id="P01">
+        
+        <title>Project 1</title>
+        <managers>
+            <manager_name>
+
+                <first_name>Nick</first_name>
+                <middle_name></middle_name>
+                <last_name>Sturch-Flint</last_name>
+
+            </manager_name>
+            <manager_phone type="home">(416) 123-4567</manager_phone>
+            <phone type="office">(905) 321-4321</phone>
+            <email>nick@services.com</email>
+
+        </managers>
+        <teams>
+
+            <leader>Nick</leader>
+            <developer>Mark</developer>
+            <developer>William</developer>
+            <tester>Shailene</tester>
+            <documentor>Barillia</documentor>
+
+        </teams>
+        <clients client_id="001">
+
+            <client_name>Jelissa Kool-aid</client_name>
+            <address>
+
+                <street>Fake St</street>
+                <city>Oshawa</city>
+                <country>Canada</country>
+                <postal>L2F 3D3</postal>
+
+            </address>
+            <client_email>jelissas.koolaid@email.com</client_email>
+            <client_phone>(123) 456-7890</client_phone>
+            
+
+        </clients>
+        <project_date type="start">January 01, 2021</project_date>
+        <project_date type="end">December 31, 2021</project_date>
+        <project_comments>Please Enjoy the XML!</project_comments>
+
+    </project>
+
+</projects>

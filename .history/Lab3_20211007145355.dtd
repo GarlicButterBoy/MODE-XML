@@ -1,0 +1,7 @@
+<!ELEMENT projects (company,project+)>
+
+    <!ELEMENT company (company_name,company_address,logo,website_address*,email,phone+)>
+
+    <!ELEMENT project (project_id,title,managers+,teams+,clients*,project_date,project_comments)>
+
+        <!ELEMENT managers (name,phone,email)>

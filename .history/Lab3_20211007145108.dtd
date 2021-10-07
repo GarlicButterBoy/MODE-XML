@@ -1,0 +1,3 @@
+<!ELEMENT projects (company,project+)>
+    <!ELEMENT company (company_name,company_address,logo,website_address*,email,phone+)>
+    <!ELEMENT project (project_id,)>

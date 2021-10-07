@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE projects SYSTEM "Lab3.dtd">
+
+<projects>
+
+    <company>
+
+        <company_name>Nick's Services</company_name>
+        <company_address>123 Nick Rd</company_address>
+        <logo>image.jpg</logo>
+        <website_address>www.NicksServices.com</website_address>
+        <email>nicksservices@email.com</email>
+        <phone>(905) 123-4567</phone>
+        
+    </company>
+
+</projects>
