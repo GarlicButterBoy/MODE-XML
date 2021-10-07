@@ -5,8 +5,8 @@
 
     <name>Nick Sturch-Flint</name>
     <position>Student</position>
-    <phone type="mobile">(905) 123-4567</phone>
-    <phone type="work">(289) 123-4567</phone>
-    <email>nicholas.sturchflint@dcmail.ca</email>
+    <phone type="Mobile">(905) 123-4567</phone>
+    <phone type="Work">(289) 123-4567</phone>
+    
 
 </BusinessCard>

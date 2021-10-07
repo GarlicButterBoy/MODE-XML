@@ -1,0 +1,7 @@
+<!ELEMENT BusinessCard (name,position*,phone+,email?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT email (#PCDARA)>
+
+<!ATTLIST phone type ()>

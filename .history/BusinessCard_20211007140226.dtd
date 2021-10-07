@@ -1,0 +1,1 @@
+<!ELEMENT BusinessCard (name,position,phone,email)>
