@@ -8,7 +8,7 @@
         <!ELEMENT company_email (#PCDATA)>
         <!ELEMENT company_phone (#PCDATA)>
 
-    <!ELEMENT project (title,managers+,teams+,clients*,project_date+,project_comments)>
+    <!ELEMENT project (title,managers+,teams+,clients*,project_date,project_comments)>
         <!ATTLIST project project_id CDATA #REQUIRED>
         <!ELEMENT title (#PCDATA)>
 
